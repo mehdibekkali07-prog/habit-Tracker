@@ -1,0 +1,684 @@
+[
+    {
+        "date": "2025-11-03",
+        "entries": [
+            {
+                "name": "Take a morning shower",
+                "points": 5,
+                "done": true
+            },
+            {
+                "name": "wake up at 6am",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "\ud83e\uddee code for 2 hours a day on leetcode \ud83e\uddee",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "\ud83e\udd57 Eat 1800 cal a day \ud83e\udd57",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "\ud83d\udcbb learn a new thing about Trading \ud83d\udcbb ",
+                "points": 5,
+                "done": true
+            },
+            {
+                "name": "\ud83c\udfc3\u200d\u2642\ufe0f Workout \ud83c\udfc3\u200d\u2642\ufe0f",
+                "points": 7,
+                "done": true
+            },
+            {
+                "name": "\ud83d\udca7 Drink 2+ liters of water \ud83d\udca7",
+                "points": 8.5,
+                "done": true
+            },
+            {
+                "name": "\ud83d\ude4f pray 5 times a Day \ud83d\ude4f",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "declare my major",
+                "points": 5,
+                "done": true
+            },
+            {
+                "name": "Focus in class",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "Brush teeth + SPLINT ",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "\ud83d\ude4f send a message to the esports coach \ud83d\ude4f",
+                "points": 4,
+                "done": true
+            },
+            {
+                "name": "\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb create a linkedin profile \ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
+                "points": 8,
+                "done": true
+            }
+        ],
+        "total": 92.5,
+        "max_points": 102.5,
+        "percent": 90.24
+    },
+    {
+        "date": "2025-11-04",
+        "entries": [
+            {
+                "name": "wake up at 6am",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "\ud83e\uddee code for 2 hours a day on leetcode \ud83e\uddee",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "\ud83e\udd57 Eat 1800 cal a day \ud83e\udd57",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "\ud83d\udcbb learn a new thing about Trading \ud83d\udcbb ",
+                "points": 5,
+                "done": true
+            },
+            {
+                "name": "\ud83c\udfc3\u200d\u2642\ufe0f Workout \ud83c\udfc3\u200d\u2642\ufe0f",
+                "points": 7,
+                "done": false
+            },
+            {
+                "name": "\ud83d\udca7 Drink 2+ liters of water \ud83d\udca7",
+                "points": 8.5,
+                "done": true
+            },
+            {
+                "name": "\ud83d\ude4f pray 5 times a Day \ud83d\ude4f",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "go to nicole office , declare major ask about advisor ",
+                "points": 5,
+                "done": true
+            },
+            {
+                "name": "Focus in class",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "Brush teeth + SPLINT ",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "select classes for registration",
+                "points": 4,
+                "done": true
+            },
+            {
+                "name": "do my laundary ",
+                "points": 6,
+                "done": true
+            },
+            {
+                "name": "study for my  business  ",
+                "points": 6,
+                "done": true
+            },
+            {
+                "name": "\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb fill basic stuff for linkedin profile \ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
+                "points": 6,
+                "done": true
+            }
+        ],
+        "total": 90.5,
+        "max_points": 107.5,
+        "percent": 84.19
+    },
+    {
+        "date": "2025-11-05",
+        "entries": [
+            {
+                "name": "wake up at 7am",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "\ud83e\uddee code for 2 hours a day on leetcode \ud83e\uddee",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "\ud83e\udd57 Eat 1800 cal a day \ud83e\udd57",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "\ud83d\udcbb learn a new thing about Trading \ud83d\udcbb ",
+                "points": 5,
+                "done": false
+            },
+            {
+                "name": "study for my midterm exam and catch up on slides ",
+                "points": 6,
+                "done": true
+            },
+            {
+                "name": "\ud83c\udfc3\u200d\u2642\ufe0f Workout \ud83c\udfc3\u200d\u2642\ufe0f",
+                "points": 8,
+                "done": true
+            },
+            {
+                "name": "\ud83d\udca7 Drink 2+ liters of water \ud83d\udca7",
+                "points": 8.5,
+                "done": true
+            },
+            {
+                "name": "\ud83d\ude4f pray 5 times a Day \ud83d\ude4f",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "go to nicole office , registrar office ",
+                "points": 6,
+                "done": true
+            },
+            {
+                "name": "Focus in class",
+                "points": 5,
+                "done": true
+            },
+            {
+                "name": "Brush teeth + SPLINT ",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "study for quiz  ",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "see the courses i should take to major or minor ",
+                "points": 5,
+                "done": true
+            },
+            {
+                "name": "select classes for registration",
+                "points": 8,
+                "done": true
+            },
+            {
+                "name": "send my  lab in cs due ",
+                "points": 5,
+                "done": true
+            },
+            {
+                "name": "\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb fill basic stuff for linkedin profile \ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
+                "points": 5,
+                "done": false
+            }
+        ],
+        "total": 101.5,
+        "max_points": 121.5,
+        "percent": 83.54
+    },
+    {
+        "date": "2025-11-06",
+        "entries": [
+            {
+                "name": "wake up at 6am for registration",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "\ud83e\uddee code for 2 hours a day on leetcode \ud83e\uddee",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "\ud83e\udd57 Eat 1800 cal a day \ud83e\udd57",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "\ud83d\udcbb learn a new thing about Trading \ud83d\udcbb ",
+                "points": 7,
+                "done": false
+            },
+            {
+                "name": "\ud83c\udfc3\u200d\u2642\ufe0f Workout \ud83c\udfc3\u200d\u2642\ufe0f",
+                "points": 8,
+                "done": true
+            },
+            {
+                "name": "\ud83d\udca7 Drink 2+ liters of water \ud83d\udca7",
+                "points": 8.5,
+                "done": true
+            },
+            {
+                "name": "\ud83d\ude4f pray 5 times a Day \ud83d\ude4f",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "Brush teeth + SPLINT ",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "have a nice idea bout the project ",
+                "points": 7,
+                "done": true
+            },
+            {
+                "name": "check appointment with core  ",
+                "points": 2,
+                "done": true
+            },
+            {
+                "name": "quick look for colleges ",
+                "points": 8,
+                "done": false
+            },
+            {
+                "name": "send accomodation ",
+                "points": 8,
+                "done": false
+            },
+            {
+                "name": "no picolo ",
+                "points": 15,
+                "done": true
+            },
+            {
+                "name": "\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb fill basic stuff for linkedin profile \ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
+                "points": 6,
+                "done": false
+            }
+        ],
+        "total": 90.5,
+        "max_points": 119.5,
+        "percent": 75.73
+    },
+    {
+        "date": "2025-11-07",
+        "entries": [
+            {
+                "name": "wake up at 7 am ",
+                "points": 6,
+                "done": true
+            },
+            {
+                "name": "\ud83e\uddee code for 2 hours a day on leetcode \ud83e\uddee",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "\ud83e\udd57 Eat 1800 cal a day \ud83e\udd57",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "\ud83d\udcbb learn a new thing about Trading \ud83d\udcbb ",
+                "points": 8,
+                "done": false
+            },
+            {
+                "name": "study for exam ",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "\ud83d\udca7 Drink 2+ liters of water \ud83d\udca7",
+                "points": 8.5,
+                "done": true
+            },
+            {
+                "name": "\ud83d\ude4f pray 5 times a Day \ud83d\ude4f",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "Brush teeth + SPLINT ",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "quick look for colleges ",
+                "points": 8,
+                "done": false
+            },
+            {
+                "name": "send accomodation and look for an office ",
+                "points": 8,
+                "done": false
+            },
+            {
+                "name": "no watch ",
+                "points": 15,
+                "done": true
+            },
+            {
+                "name": "change subscription for tello ",
+                "points": 5,
+                "done": false
+            },
+            {
+                "name": "\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb fill basic stuff for linkedin profile \ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
+                "points": 7,
+                "done": false
+            }
+        ],
+        "total": 49.5,
+        "max_points": 115.5,
+        "percent": 42.86
+    },
+    {
+        "date": "2025-11-08",
+        "entries": [
+            {
+                "name": "wake up at 7 am ",
+                "points": 6,
+                "done": false
+            },
+            {
+                "name": "\ud83e\uddee code for 2 hours a day on leetcode \ud83e\uddee",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "\ud83e\udd57 Eat 1800 cal a day \ud83e\udd57",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "\ud83d\udcbb learn a new thing about Trading \ud83d\udcbb ",
+                "points": 8,
+                "done": false
+            },
+            {
+                "name": "study for exam ",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "\ud83d\udca7 Drink 2+ liters of water \ud83d\udca7",
+                "points": 8.5,
+                "done": false
+            },
+            {
+                "name": "\ud83d\ude4f pray 5 times a Day \ud83d\ude4f",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "Brush teeth + SPLINT ",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "quick look for colleges ",
+                "points": 8,
+                "done": false
+            },
+            {
+                "name": "send accomodation and look for an office ",
+                "points": 8,
+                "done": false
+            },
+            {
+                "name": "no watch ",
+                "points": 15,
+                "done": false
+            },
+            {
+                "name": "change subscription for tello ",
+                "points": 5,
+                "done": true
+            },
+            {
+                "name": "\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb fill basic stuff for linkedin profile \ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
+                "points": 7,
+                "done": false
+            }
+        ],
+        "total": 5,
+        "max_points": 115.5,
+        "percent": 4.33
+    },
+    {
+        "date": "2025-11-09",
+        "entries": [
+            {
+                "name": "wake up at 7 am ",
+                "points": 6,
+                "done": false
+            },
+            {
+                "name": "\ud83e\uddee code for 2 hours a day on leetcode \ud83e\uddee",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "\ud83e\udd57 Eat 1800 cal a day \ud83e\udd57",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "\ud83d\udcbb learn a new thing about Trading \ud83d\udcbb ",
+                "points": 8,
+                "done": false
+            },
+            {
+                "name": "study for exam ",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "\ud83d\udca7 Drink 2+ liters of water \ud83d\udca7",
+                "points": 8.5,
+                "done": false
+            },
+            {
+                "name": "\ud83d\ude4f pray 5 times a Day \ud83d\ude4f",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "Brush teeth + SPLINT ",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "quick look for colleges ",
+                "points": 8,
+                "done": false
+            },
+            {
+                "name": "send accomodation and look for an office ",
+                "points": 8,
+                "done": false
+            },
+            {
+                "name": "no watch ",
+                "points": 15,
+                "done": false
+            },
+            {
+                "name": "change subscription for tello ",
+                "points": 5,
+                "done": false
+            },
+            {
+                "name": "\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb fill basic stuff for linkedin profile \ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
+                "points": 7,
+                "done": false
+            }
+        ],
+        "total": 10,
+        "max_points": 115.5,
+        "percent": 8.66
+    },
+    {
+        "date": "2025-11-10",
+        "entries": [
+            {
+                "name": "wake up at 7 am ",
+                "points": 6,
+                "done": true
+            },
+            {
+                "name": "\ud83e\uddee code for 2 hours a day on leetcode \ud83e\uddee",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "\ud83e\udd57 Eat 1800 cal a day \ud83e\udd57",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "\ud83d\udcbb learn a new thing about Trading \ud83d\udcbb ",
+                "points": 8,
+                "done": false
+            },
+            {
+                "name": "study for exam ",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "\ud83d\udca7 Drink 2+ liters of water \ud83d\udca7",
+                "points": 8.5,
+                "done": false
+            },
+            {
+                "name": "\ud83d\ude4f pray 5 times a Day \ud83d\ude4f",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "Brush teeth + SPLINT ",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "quick look for colleges ",
+                "points": 8,
+                "done": false
+            },
+            {
+                "name": "send accomodation and look for an office ",
+                "points": 8,
+                "done": false
+            },
+            {
+                "name": "no watch ",
+                "points": 15,
+                "done": false
+            },
+            {
+                "name": "change subscription for tello ",
+                "points": 5,
+                "done": false
+            },
+            {
+                "name": "\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb fill basic stuff for linkedin profile \ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
+                "points": 7,
+                "done": false
+            }
+        ],
+        "total": 16,
+        "max_points": 115.5,
+        "percent": 13.85
+    },
+    {
+        "date": "2025-11-11",
+        "entries": [
+            {
+                "name": "wake up at 7 am ",
+                "points": 6,
+                "done": false
+            },
+            {
+                "name": "\ud83e\uddee code for 2 hours a day on leetcode \ud83e\uddee",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "\ud83e\udd57 Eat 1800 cal a day \ud83e\udd57",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "\ud83d\udcbb learn a new thing about Trading \ud83d\udcbb ",
+                "points": 8,
+                "done": false
+            },
+            {
+                "name": "study for exam ",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "\ud83d\udca7 Drink 2+ liters of water \ud83d\udca7",
+                "points": 8.5,
+                "done": false
+            },
+            {
+                "name": "\ud83d\ude4f pray 5 times a Day \ud83d\ude4f",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "Brush teeth + SPLINT ",
+                "points": 10,
+                "done": false
+            },
+            {
+                "name": "quick look for colleges ",
+                "points": 8,
+                "done": false
+            },
+            {
+                "name": "send accomodation and look for an office ",
+                "points": 8,
+                "done": false
+            },
+            {
+                "name": "no watch ",
+                "points": 15,
+                "done": false
+            },
+            {
+                "name": "change subscription for tello ",
+                "points": 5,
+                "done": false
+            },
+            {
+                "name": "\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb fill basic stuff for linkedin profile \ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
+                "points": 7,
+                "done": false
+            }
+        ],
+        "total": 0,
+        "max_points": 115.5,
+        "percent": 0.0
+    }
+]
