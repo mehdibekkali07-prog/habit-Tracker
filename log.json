@@ -680,5 +680,108 @@
         "total": 0,
         "max_points": 115.5,
         "percent": 0.0
+    },
+    {
+        "date": "2025-11-12",
+        "entries": [
+            {
+                "name": "wake up at 6 am ",
+                "points": 6,
+                "done": false
+            },
+            {
+                "name": "\ud83e\uddee code for 2 hours a day on leetcode \ud83e\uddee",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "\ud83e\udd57 Eat 1800 cal a day \ud83e\udd57",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "\ud83d\udcbb learn a new thing about Trading \ud83d\udcbb ",
+                "points": 7,
+                "done": false
+            },
+            {
+                "name": "\ud83d\udca7 Drink 2+ liters of water \ud83d\udca7",
+                "points": 8.5,
+                "done": true
+            },
+            {
+                "name": "\ud83d\ude4f pray 5 times a Day \ud83d\ude4f",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "Brush teeth + SPLINT ",
+                "points": 10,
+                "done": true
+            },
+            {
+                "name": "no watch ",
+                "points": 15,
+                "done": true
+            },
+            {
+                "name": "workout ",
+                "points": 8,
+                "done": true
+            },
+            {
+                "name": "typo ",
+                "points": 5,
+                "done": true
+            },
+            {
+                "name": "fil my comman app  ",
+                "points": 7,
+                "done": false
+            },
+            {
+                "name": "apply to google dev ",
+                "points": 8,
+                "done": true
+            },
+            {
+                "name": "check new jobs on handsshake including a ca  ",
+                "points": 6,
+                "done": true
+            },
+            {
+                "name": "write emails to my contacts offering a service ",
+                "points": 8,
+                "done": true
+            },
+            {
+                "name": "I will need to finish reading the chapter for the quiz + ask hamza ",
+                "points": 8,
+                "done": false
+            },
+            {
+                "name": "go over the midterm qs i missed ",
+                "points": 8,
+                "done": true
+            },
+            {
+                "name": "apply to the jobs and internships the cs prof sent  ",
+                "points": 8,
+                "done": true
+            },
+            {
+                "name": "check whats up with the viking guide job ",
+                "points": 8,
+                "done": true
+            },
+            {
+                "name": "\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb fill basic stuff for linkedin profile \ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
+                "points": 7,
+                "done": false
+            }
+        ],
+        "total": 122.5,
+        "max_points": 157.5,
+        "percent": 77.78
     }
 ]

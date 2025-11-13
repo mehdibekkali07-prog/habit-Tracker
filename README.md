@@ -8,6 +8,7 @@ fix computer
 appointment with core
 apply to ca position
 computer science data science finance and maths 
+go to amanda and request my accomodation talk to her send her email
 
 [
     {
